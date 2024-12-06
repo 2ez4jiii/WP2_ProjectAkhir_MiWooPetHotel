@@ -15,7 +15,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>AHMAD AJI SAPUTRA(Project Leader)</td>
+      <td>AHMAD AJI SAPUTRA <span text="bold">(Project Leader)</span></td>
       <td>19230997</td>
     </tr>
     <tr>
