@@ -1,5 +1,34 @@
-<h1>TUGAS PROJECT AKHIR WP2_19.3B.05</h1>
-<h3>Anggota Kelompok</h3>
-<p><span class="text-red">19230997</span>AHMAD AJI SAPUTRA</p>
+<h1 align="center">MiWoo Pet Hotel 🐾</h1>
 
-anggota kelompok: AHMAD AJI SAPUTRA 19230997 IMAM DZAKI RAMADHAN 19231005 HENDRIKA YONGGON 19230942 MUHAMMAD TAUHID AL FATAH 19231372 PRIMATAMA ZIDDANE 19231076
+<p align="center">
+  <strong>Project akhir WP2 kelas 19.3b.05</strong>.
+</p>
+
+<h2>👥 Anggota Kelompok</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Nama Anggota</th>
+      <th>NIM</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Nama 1</td>
+      <td>123456789</td>
+    </tr>
+    <tr>
+      <td>Nama 2</td>
+      <td>987654321</td>
+    </tr>
+    <tr>
+      <td>Nama 3</td>
+      <td>456789123</td>
+    </tr>
+    <tr>
+      <td>Nama 4</td>
+      <td>654321987</td>
+    </tr>
+  </tbody>
+</table>
