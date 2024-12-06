@@ -15,20 +15,24 @@
   </thead>
   <tbody>
     <tr>
-      <td>Nama 1</td>
-      <td>123456789</td>
+      <td>AHMAD AJI SAPUTRA</td>
+      <td>19230997</td>
     </tr>
     <tr>
-      <td>Nama 2</td>
-      <td>987654321</td>
+      <td>IMAM DZAKI RAMADHAN</td>
+      <td>19231005</td>
     </tr>
     <tr>
-      <td>Nama 3</td>
-      <td>456789123</td>
+      <td>HENDRIKA YONGGON</td>
+      <td>19230942</td>
     </tr>
     <tr>
-      <td>Nama 4</td>
-      <td>654321987</td>
+      <td>MUHAMMAD TAUHID AL FATAH</td>
+      <td>19231372</td>
+    </tr>
+      <tr>
+      <td>PRIMATAMA ZIDDANE</td>
+      <td>19231076</td>
     </tr>
   </tbody>
 </table>
